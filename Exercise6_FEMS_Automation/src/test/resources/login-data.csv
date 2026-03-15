@@ -1,0 +1,5 @@
+username,password,expected
+admin,12345,success
+admin,sdfsdgsdgsd,fail
+,,fail
+,12345,fail

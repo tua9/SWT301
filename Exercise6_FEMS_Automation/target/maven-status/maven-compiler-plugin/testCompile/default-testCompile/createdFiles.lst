@@ -1,0 +1,7 @@
+com\exercise6_fems_automation\pages\ProfilePage.class
+com\exercise6_fems_automation\test\ProfileTest.class
+com\exercise6_fems_automation\test\FemsTest.class
+com\exercise6_fems_automation\pages\LoginPage.class
+com\exercise6_fems_automation\utils\DriverFactory.class
+com\exercise6_fems_automation\pages\BasePage.class
+com\exercise6_fems_automation\test\BaseTest.class
